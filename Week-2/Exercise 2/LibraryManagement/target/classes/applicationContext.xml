@@ -4,7 +4,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
                            http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- Define the BookRepository bean -->
     <bean id="bookRepository" class="com.library.repository.BookRepository"/>
 
     <!-- Define the BookService bean and wire BookRepository using Setter Injection -->
