@@ -5,3 +5,6 @@ This repository contains the advanced functional training tasks executed during 
 
 ---
 *Engineered by Samhith Reddy*
+Name: Anugu Samhith Reddy
+Mail ID: samhithreddy14@gmail.com
+Superset ID: 799622
