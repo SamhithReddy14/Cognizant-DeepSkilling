@@ -2,7 +2,7 @@ package com.cognizant.account;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.*;
-
+//Annotation
 @RestController
 public class AccountController {
 
